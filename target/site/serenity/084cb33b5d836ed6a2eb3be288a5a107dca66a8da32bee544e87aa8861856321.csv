@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Product","GET As admin I have be able to get all product","SUCCESS","2023-05-10T22:52:45.4481518+07:00[Asia/Bangkok]","0.0","4.34"
+"Product","GET api endpoints for products by ID","SUCCESS","2023-05-10T22:52:49.7894138+07:00[Asia/Bangkok]","0.0","4.23"

@@ -1,0 +1,7 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Product","DELETE api endpoints","SUCCESS","2023-05-10T22:52:54.0258171+07:00[Asia/Bangkok]","0.0","0.08"
+"Product","POST endpoints for create new products","SUCCESS","2023-05-10T22:52:54.1088885+07:00[Asia/Bangkok]","0.0","0.09"
+"Product","GET api endpoints for products ratings","SUCCESS","2023-05-10T22:52:54.1989661+07:00[Asia/Bangkok]","0.0","0.08"
+"Product","GET api endpoints for products comments","SUCCESS","2023-05-10T22:52:54.2800358+07:00[Asia/Bangkok]","0.0","0.08"
+"Product","POST api endpoints for assign a product ratings","SUCCESS","2023-05-10T22:52:54.3616058+07:00[Asia/Bangkok]","0.0","0.1"
+"Product","POST api endpoints for create comment for products","SUCCESS","2023-05-10T22:52:54.4596896+07:00[Asia/Bangkok]","0.0","0.08"
