@@ -1,4 +1,4 @@
 "Story","Title","Result","Date","Stability","Duration (s)"
-"Order","GET api endpoints for all orders","SUCCESS","2023-05-10T22:52:44.7810205+07:00[Asia/Bangkok]","0.0","0.09"
-"Order","POST endpoints for create new orders","SUCCESS","2023-05-10T22:52:44.8811662+07:00[Asia/Bangkok]","0.0","0.08"
-"Order","GET api endpoints for orders by ID","SUCCESS","2023-05-10T22:52:44.9657389+07:00[Asia/Bangkok]","0.0","0.08"
+"Order","GET api endpoints for all orders","SUCCESS","2023-05-12T16:40:41.8091456+07:00[Asia/Bangkok]","0.0","0.09"
+"Order","POST endpoints for create new orders","SUCCESS","2023-05-12T16:40:41.9027257+07:00[Asia/Bangkok]","0.0","0.08"
+"Order","GET api endpoints for orders by ID","SUCCESS","2023-05-12T16:40:41.9856088+07:00[Asia/Bangkok]","0.0","0.08"

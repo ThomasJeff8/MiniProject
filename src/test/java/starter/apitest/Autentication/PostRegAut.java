@@ -12,7 +12,7 @@ public class PostRegAut {
     public String RegisterUsingTheCorrectData(){
         return url + "register";
     }
-    @Step("I submit a POST request to {string} with fullname Fullname Lastname, email 2someone@mail.com and password 123123")
+    @Step("I submit a POST request to {string} with fullname Fullname Lastname, email someone@mail.com and password 123123")
     public void POSTRequestToWithFullnameEmailAndPassword(){
         JSONObject requestBody = new JSONObject();
         String alphabet = "abcdfgh";

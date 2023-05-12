@@ -16,7 +16,7 @@ public class PostCreate {
     public void sendGetHttpRequestForCreateCommentForProducts() {
         JSONObject requestBody = new JSONObject();
         requestBody.put("content","the games are great including Gran Turismo 7 but sadly GT4 is much better");
-        SerenityRest.given().header("Authorization", "Bearer " + "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJGdWxsbmFtZSI6IkFkaXR5YSBOdWdyYWhhIiwiRW1haWwiOiJhZGl0QGdtYWlsLmNvbSJ9.VM2lARkmmliu1pWtk1uhb8z5fGaElvH1jIoYM72Te3g").header("Content-Type","application/json").body(requestBody.toJSONString()).post(setApiEndpointsForCreateCommentForProducts());
+        SerenityRest.given().header("Authorization", "Bearer " + "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJGdWxsbmFtZSI6IkpvaG4gRG9lIiwiRW1haWwiOiJzb21lb25lQG1haWwuY29tIn0.WvBSxcQEqqniC1v08LzkrHcELegs0b7vtjGPWiaEWcI").header("Content-Type","application/json").body(requestBody.toJSONString()).post(setApiEndpointsForCreateCommentForProducts());
     }
 
     @Step("I receive valid HTTP response code 200 for create comment for products")

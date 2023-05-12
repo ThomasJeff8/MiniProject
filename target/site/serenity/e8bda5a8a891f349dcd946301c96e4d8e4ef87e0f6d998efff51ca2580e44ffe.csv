@@ -1,4 +1,4 @@
 "Story","Title","Result","Date","Stability","Duration (s)"
-"Autentication","POST operational for login","SUCCESS","2023-05-10T22:52:44.3867798+07:00[Asia/Bangkok]","0.0","0.11"
-"Autentication","register using the correct data","SUCCESS","2023-05-10T22:52:44.5028789+07:00[Asia/Bangkok]","0.0","0.09"
-"Autentication","register using incorrect data","SUCCESS","2023-05-10T22:52:44.6019641+07:00[Asia/Bangkok]","0.0","0.08"
+"Autentication","POST operational for login","SUCCESS","2023-05-12T16:40:41.4123025+07:00[Asia/Bangkok]","0.0","0.1"
+"Autentication","register using the correct data","SUCCESS","2023-05-12T16:40:41.5223975+07:00[Asia/Bangkok]","0.0","0.1"
+"Autentication","register using incorrect data","SUCCESS","2023-05-12T16:40:41.6294886+07:00[Asia/Bangkok]","0.0","0.08"

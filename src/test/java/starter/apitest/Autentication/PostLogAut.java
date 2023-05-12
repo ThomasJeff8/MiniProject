@@ -21,8 +21,8 @@ public class PostLogAut {
     @Step("I send POST HTTP request login")
     public void sendPostHttpRequestForAutenLogin() {
         JSONObject requestBody = new JSONObject();
-        requestBody.put("email", "adit@gmail.com");
-        requestBody.put("password", "adit123");
+        requestBody.put("email", "someone@mail.com");
+        requestBody.put("password", "123123");
 
         SerenityRest.given().header("Content-Type", "application/json").body(requestBody.toJSONString())
                 .post(PerformPOSToperationalforlogin());
